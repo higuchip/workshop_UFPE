@@ -1,3 +1,5 @@
+# from https://stackoverflow.com/questions/18639967/converting-latitude-and-longitude-points-to-utm. Thanks stanislav!
+
 library(sp)
 library(rgdal)
 #Function
